@@ -1,0 +1,30 @@
+body {
+    font-family: 'Work Sans Medium', sans-serif;
+}
+nav {
+    margin-bottom: 80px;
+}
+#icon {
+    height: 30px;
+    width: 30px;
+    margin-left: 10px;
+}
+ul {
+    list-style-type: disc;
+}
+meter {
+    width: 400px;
+}
+meter::-webkit-meter-optimum-value {
+    background-color: darkgrey;
+}
+div.border {
+    width: 500px;
+}
+div.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#messagebtn {
+    margin-top: 20px;
+    margin-left: 280px;
+}
